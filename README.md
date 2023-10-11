@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @BruhDudeWew
-- 👀 I’m interested in Android CustomROMs
 - 🌱 I’m currently learning Python (still dumb at it)
 - 📫 How to reach me: Telegram BruhDude
 
